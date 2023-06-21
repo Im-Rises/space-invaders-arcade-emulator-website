@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/space-invaders-arcade-emulator-website/static/css/main.8c437929.css",
+    "main.js": "/space-invaders-arcade-emulator-website/static/js/main.9ed8c6c1.js",
+    "static/js/787.1bed57d0.chunk.js": "/space-invaders-arcade-emulator-website/static/js/787.1bed57d0.chunk.js",
+    "static/media/space_invaders_arcade_emulator_webgl_bg.wasm": "/space-invaders-arcade-emulator-website/static/media/space_invaders_arcade_emulator_webgl_bg.1c98f9d2df48095dac90.wasm",
+    "static/media/bg_invaders_2.png": "/space-invaders-arcade-emulator-website/static/media/bg_invaders_2.fdbbb946eb412e8d8b59.png",
+    "static/media/bg_invaders_1.png": "/space-invaders-arcade-emulator-website/static/media/bg_invaders_1.2b6cb6296a73c3fc2629.png",
+    "index.html": "/space-invaders-arcade-emulator-website/index.html",
+    "main.8c437929.css.map": "/space-invaders-arcade-emulator-website/static/css/main.8c437929.css.map",
+    "main.9ed8c6c1.js.map": "/space-invaders-arcade-emulator-website/static/js/main.9ed8c6c1.js.map",
+    "787.1bed57d0.chunk.js.map": "/space-invaders-arcade-emulator-website/static/js/787.1bed57d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c437929.css",
+    "static/js/main.9ed8c6c1.js"
+  ]
+}

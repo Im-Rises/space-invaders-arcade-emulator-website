@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import init, {run} from 'si-emu-pkg';
+import init, {run} from 'space-invaders-arcade-emulator';
 import PropTypes from 'prop-types';
 import {backgroundVersionList} from '../constants/screen-constants';
 import {ActionButtonStyle} from './subcomponents/ActionButtonStyle';

@@ -45,11 +45,18 @@
 
 .control-panel {
   height: 20vh;
+  width: 100vw;
 
   div {
     display: flex;
     align-items: center;
     flex-direction: row;
     justify-content: center;
+
+    button {
+      margin: 0.5rem;
+      font-size: 1rem;
+      width: 2rem;
+    }
   }
 }

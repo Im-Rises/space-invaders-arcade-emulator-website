@@ -61,10 +61,10 @@ SiEmulator.propTypes = {
 	twoAdditional: PropTypes.bool.isRequired,
 	earlyUfo: PropTypes.bool.isRequired,
 	coinDemo: PropTypes.bool.isRequired,
-	// romDataH: PropTypes.object.isRequired,
-	// romDataG: PropTypes.object.isRequired,
-	// romDataF: PropTypes.object.isRequired,
-	// romDataE: PropTypes.object.isRequired,
+	romDataH: PropTypes.object.isRequired,
+	romDataG: PropTypes.object.isRequired,
+	romDataF: PropTypes.object.isRequired,
+	romDataE: PropTypes.object.isRequired,
 };
 
 export default SiEmulator;

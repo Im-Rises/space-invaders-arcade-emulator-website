@@ -20,6 +20,7 @@ module.exports = {
 			'error',
 			'always',
 		],
+		'function-call-argument-newline': 'off',
 		'capitalized-comments': 'off',
 		'react/prop-types': 'warn',
 		'no-trailing-spaces': 0,

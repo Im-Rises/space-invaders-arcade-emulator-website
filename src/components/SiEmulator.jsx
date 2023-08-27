@@ -14,8 +14,11 @@ const SiEmulator = props => {
 
 	useEffect(() => {
 		init().then(() => {
-			// run(canvasId, buttonPrefix, props.screenMode, props.oneAdditional, props.twoAdditional, props.earlyUfo, props.coinDemo, props.romDataH, props.romDataG, props.romDataF, props.romDataE);
-			run(canvasId, buttonPrefix, props.screenMode, props.oneAdditional, props.twoAdditional, props.earlyUfo, props.coinDemo);// Debug
+			run(canvasId, buttonPrefix, props.screenMode, props.oneAdditional,
+				props.twoAdditional, props.earlyUfo, props.coinDemo,
+				props.romDataH, props.romDataG,
+				props.romDataF, props.romDataE);
+			// run(canvasId, buttonPrefix, props.screenMode, props.oneAdditional, props.twoAdditional, props.earlyUfo, props.coinDemo);// Debug
 		});
 	}, []);
 	return (
